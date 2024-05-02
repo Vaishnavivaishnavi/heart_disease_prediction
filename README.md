@@ -1,0 +1,1 @@
+This Machine Leaning Project Detects likelihood of heart disease, it uses logistic regression algorithm to analyze medical data and provide early detection and personalized risk assessment for preventive healthcare
